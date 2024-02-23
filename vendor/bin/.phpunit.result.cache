@@ -1,0 +1,1 @@
+{"version":1,"defects":{"test\\ParserTest::testParseFileWithValidFile":8,"test\\ParserTest::testParseFileWithInvalidFile":7},"times":{"test\\ParserTest::testParseFileWithValidFile":0.828,"test\\ParserTest::testParseFileWithInvalidFile":0.002,"test\\ParserTest::testDetectDelimiter":0,"test\\ParserTest::testValidateHeader":0}}
